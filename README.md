@@ -69,7 +69,7 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any questions or inquiries, please contact [Your Name](mailto:your.email@example.com).
+For any questions or inquiries, please contact [Ivan Kwong](mailto:ivankwong22@gmail.com).
 
 ---
 
